@@ -3,7 +3,7 @@
 #include <random>
 
 using namespace std;
-
+//rolled spell
 RolledSpell :: RolledSpell(int level, School school,
                 string castTime, string components,
                 string range, string target,
